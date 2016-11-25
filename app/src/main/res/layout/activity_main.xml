@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="Time to add some activities!"
+        android:text="First add some activities \n then check them of by pressing the circle \n and delete by press and hold"
         android:textSize="30sp"/>
 
     <Button
